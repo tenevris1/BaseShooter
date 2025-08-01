@@ -1,0 +1,10 @@
+{
+  "name": "Base Shooter",
+  "description": "Basic 2D Shooter, in a Google extension.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "shooter.png"
+  }
+}
